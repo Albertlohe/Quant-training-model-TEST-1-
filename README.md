@@ -7,3 +7,7 @@ Data set 1k - 2.5k
 required or optimum data 50K +
 
 test 3
+
+data set 5k approx
+
+required
